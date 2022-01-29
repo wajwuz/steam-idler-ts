@@ -1,0 +1,8 @@
+{
+    "databaseHost": "db.perhost.pl",
+    "databasePort": 3306,
+    "databaseUser": "u59_DTNmnZ9Y0I",
+    "databasePassword": "XGJ.huM!5od=0Qq@qGGF^8Cy",
+    "databaseStorage": "s59_sraka",
+    "insertSteamUser": "INSERT INTO steam_users (steamLogin, uniqueId) VALUES (?, ?)"
+}
